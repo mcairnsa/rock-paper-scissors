@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    /* background-color: white; */
+    font-family: "Source Code Pro";
+}
+
+.App {
+    width: 1000px;
+    min-height: 600px;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    width: 80px;
+    margin: 10px 0;
+}
