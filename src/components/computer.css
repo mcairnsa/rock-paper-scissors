@@ -1,0 +1,31 @@
+.computer-card {
+    height: 220px;
+    width: 440px;
+    padding: 25px 0;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: #FBDCE2;
+    color: #FF9FB2;
+    border: 1px solid #0ACDFF;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.waiting-message {
+    margin-top: 20px;
+}
+
+.cpuIcon {
+    border-radius: 10px;
+    transition: transform 0.1s;
+    background-color: white;
+    padding: 5px;
+}
+
+.nameStyle {
+    text-shadow: 1.5px 1.5px #E18698;
+}
+
+.victoryText {
+    text-align: center;
+}
