@@ -1,0 +1,5 @@
+.play-ground {
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    margin-bottom: 30px;
+}

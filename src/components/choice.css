@@ -1,10 +1,12 @@
 .choice-icon {
-    border-radius: 50%;
+    border-radius: 10px;
     transition: transform 0.1s;
+    background-color: white;
+    padding: 5px;
 }
 
 .choice-icon:hover {
     cursor: pointer;
-    background-color: pink;
+    background-color: #A4DEEC;
     transform: scale(1.1);
 }

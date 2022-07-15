@@ -1,0 +1,16 @@
+.reset-btn {
+    display: grid;
+    place-items: center;
+    width: 200px;
+    height: 40px;
+    margin: 0px auto 20px auto;
+    border-radius: 15px;
+    transition: transform 0.1s;
+    background-color: #A4DEEC;
+    color: #54A5BA;
+}
+
+.reset-btn:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
